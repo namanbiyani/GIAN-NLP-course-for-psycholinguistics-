@@ -1,0 +1,212 @@
+The walled city of Galway.
+There's nothing between here and North America, but sea...
+An ocean of sea.
+In the 19th century, wave upon wave of emigrants trusted their luck
+crossing the Atlantic, to flee poverty and famine in Ireland
+for a new life in a new world.
+But this special relationship with America
+goes back further than you might think.
+90 million years ago, what's now Ireland and North America
+were joined together.
+Then, they began to drift apart...
+..and the world's second biggest ocean emerged  
+the Atlantic.
+It dominates life on the Irish coast,
+yet the Atlantic remains full of mystery.
+We know more about Mars than we know about the oceans
+and the reason for that is the vastness of the oceans.
+They take up most of the planet.
+They're really deep. A huge body of water.
+I've joined James Ryan, from Galway's Marine Institute,
+and we're out here to check on this.
+It's a scientific buoy
+that's processing a constant stream of information about the ocean.
+it requires a little loving attention.
+Oh, there we go.
+A more physical life than I imagined for most scientists.
+It is! This is the bit I really like  
+get away from the desk and the computer.
+Hanging below the buoy are data probes, to monitor temperature,
+salt content, wave motion, nutrients
+and even the dolphins' comings and goings.
+Wow, beautiful.
+So what do you have to do now that we're out here?
+I just want to raise up the sensors,
+  which are down at the bottom of this big pipe.
+  I see.
+In order for us to check them, we have to haul them up.
+'The underwater sensors need a clean to keep them working reliably.
+'It means scientists can now study the Atlantic
+'without ever leaving their desks.'
+So it's sending its information out?
+Sending the information, 24/7. It's sending data all the time.
+'There are plans to install a network of these buoys,
+'to track the progress of global warming.'
+This is one buoy here on the edge of Ireland.
+There are other equivalent buoys all around the world,
+all very new technology.
+They are, I suppose, like the heart monitor on a patient.
+We are checking the physiology of the oceans here and monitoring it
+at a time when it's really vital for the planet.
+We're finally learning to cherish this precious ocean,
+that previous generations saw as territory to be conquered.
+Past the Slyne Head Lighthouse, our journey continues on to Clifden.
+The first people to see this view from the air were the pioneering aviators, Alcock and Brown
+who completed the first non stop trans Atlantic flight, by landing here in 1919.
+But a few years before, this was home to another transatlantic breakthrough.
+Dick Strawbridge is searching for its remains.
+In its day, this was the world's biggest communications hub.
+The brainchild of an Italian entrepreneur.
+Just over 100 years ago,
+this man, Guglielmo Marconi,
+the pioneer of radio, brought his men here
+to set up the world's first wireless telegram service.
+We want to discover how Marconi did it. And why did he come here,
+to this isolated peat bog on the Irish coast?
+When Marconi arrived, his challenge was immense  
+build the most powerful transmitter the world had ever seen.
+Good to see you, sir. If you just want to swing around that way.
+'I've assembled a team of experts who'll try and generate a radio signal
+'with the same technology that Marconi pioneered here in Ireland.'
+You want to try and align those two insulators with these two vertical members here.
+'We've got electronics engineers from the Galway
+'and Mayo Institute of Technology, supported by radio experts from the Irish naval service,'
+and they're all here to unpick the puzzle that Marconi cracked in 1907.
+Just to confirm, we have arrived at the Clifden site
+and we're going to conduct the Marconi exercises, over.
+Clifden's one of the closest points between Ireland and North America.
+From here, Marconi planned to send and receive radio signals
+a staggering 1,900 miles across the Atlantic.
+He built a sister station at Glace Bay in Nova Scotia.
+This was years before it was possible to transmit voice messages.
+So he used Morse code, electronic pulses that correspond to letters of the alphabet.
+Marconi sent the first transatlantic radio message from Poldhu at Land's End.
+But six years later, to set up as a business, he uprooted to Ireland.
+Marconi proved radio communications at Land's End, didn't he?
+So why did he come to Ireland?
+Poldhu radio site for Marconi wasn't large enough
+for the type of antenna structure he was experimenting with.
+Marconi was building big.
+Here at Clifden, there was room for a huge antenna suspended on poles 200 feet high.
+All that's left of the mighty structure are dozens of concrete anchor blocks for the masts.
+To get some sense of the scale, I've asked our guys from the navy to act as markers.
+See the far lad there, he's only about a third of the way?
+Absolutely, that guy at the very top there of the hill,
+he's one third of the way of the entire antenna.
+This was a ginormous antenna.
+You could say, the biggest in the world at that particular time.
+Nothing like this had been seen before  
+an antenna over half a mile long.
+It would need up to 300,000 watts of power to send messages all the way across the Atlantic.
+So Marconi had to generate lots of energy on site.
+That's why he built a power station in the middle of a bog.
+He had a lake, which he needed for water supply for his DC generators,
+which were right here beside us. That's the remnants of the DC generators over there.
+Amazingly, the generators were driven by a steam engines which burnt a traditional Irish fuel.
+Everywhere you look, what do see? Energy   turf peat.
+  They used peat for fuel?
+  Absolutely.
+But Marconi still needed a way of storing the electrical energy
+from his peat fuelled generators   and releasing it rapidly.
+The solution was to construct a capacitor, or condenser.
+We're trying to build one like Marconi did, from steel plates.
+Adding plates increases the electrical energy a capacitor can store.
+Unlike a battery, it can be charged up quickly and discharged in a split second.
+This was the key component that enabled Morse code to be received loud and clear 1,900 miles away.
+  This is huge.
+  That may look huge today, but compared to Marconi,
+this condenser, this is minute!
+Look, have a look at that picture.
+Have you seen this?
+This is a man here.
+We're talking about each panel being 12 times bigger than that?
+The panels at the bottom were about 12 feet, which would be
+about three of these sheets wide,
+and about 30 feet tall, which is between seven and eight times...
+  25 times the size?
+  Absolutely.
+  And how many did he have?
+  You'll not believe this. He had 1,800 sheets.
+This condenser housing was 350 feet long and 75 feet wide!
+We've built a Marconi style steel plate condenser, but what about generating the radio signal itself?
+The man with the biggest collection of early radio equipment in Britain is Bob Smallbone.
+He's arrived with a rare and crucial bit of kit, that dates right back to Marconi's time.
+That's cast iron, weighs a ton.
+  1910 rotary spark gap.
+  We're ready to go.
+Get it connected, good man.
+In 1907, powering up such a rotary spark gap was no mean feat.
+Marconi's peat powered steam engine drove his generators.
+We're using petrol power.
+We should be getting, what, about 230, 240 out, 230?
+But our generator's output is too low.
+  I should have been expecting 220.
+  Yep.
+After some tweaking, it's all systems go.
+  That's on top.
+  That's it. That's 220,
+So we're happy with that.
+Just one more part of the circuit to complete.
+  Bob's brought along a Morse key.
+  An absolute replica.
+  So that's exactly what they used 100 years ago?
+  Exactly.
+  Here in Clifden?
+  Here in Clifden.
+  There you go, no expense spared today.
+  Let's get it wired up.
+  Perfect.
+Marconi was an astute entrepreneur. He wanted to make communications
+by wireless telegraph more accessible
+and create a big market for his ground breaking service.
+  Here's an advert of the time, Dick.
+  The Marconi gram!
+  Yep.
+'By making messages more compact, they'd use up less air time and so it'd be a lot cheaper.'
+Marconi's Wireless Telegraphic Code book.
+You just use one word and he gives you a whole sentence.
+  And those aren't real words?
+  No, they're not.
+  Abrotanoid?
+  Abrotanoid.
+  Cracking word! "Bankrupt stock will realise large amount".
+  That's a very long sentence for one word.
+  It is.
+  That would cost me eight pence?
+  8p.
+We're getting a feel for the challenges Marconi faced here in 1907,
+trying to generate his revolutionary transatlantic radio messages.
+Now, the ultimate test...
+Frank has now got a live feed. Is anybody else worried?
+If you touched the steel plates now, you'd become part of a 6,000 volt circuit and almost certainly die.
+The condenser's all wired up, which means we can store lots of energy.
+So we need to get everybody safe, flip the switch,
+and we'll be sending Morse a long way using our condenser.
+  Do you want to do a quick safety check for me please, sir?
+  Clear the danger area, please.
+  Can you confirm the danger area is clear?
+  Yes, clear.
+  Thank you. On my mark...
+Five, four, three, two, one, mark.
+You're in control.
+Whoa! We like that! We like that!
+We're looking good.
+The high voltage sparks are jumping across a tiny air gap between the stud contacts.
+When these rotating contacts line up and the Morse key is pressed, the spark creates a signal.
+Marconi's rotary spark gap was five feet in diameter and the sound
+of the sparks could be heard over half a mile away.
+As well as making audible sound waves, the sparks are also creating invisible radio waves.
+it's so powerful, it's actually transmitting through the air.
+This is a radio that'll pick it up?
+Conventional radio, set to long wave. We should be able to pick it up.
+  I can indeed.
+  Excuse us.
+SIGNALS BUZZ ON RADIO Isn't that a beautiful clean spark!
+We've got 100 watts in there.
+This is still going.
+  And there's no antenna?
+  Marconi had something like 100,000 watts.
+'Our signal could be picked up almost half a mile away.'
+Over a century ago, when Marconi launches his transatlantic wireless telegraph service,
+it heralded the dawn of a new era of high speed communications.
+A big idea that made the world seem a little smaller.
